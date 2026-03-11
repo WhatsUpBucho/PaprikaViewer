@@ -1,5 +1,7 @@
 # Paprika Viewer
 
+I wanted to print Paprika recipes from my Mac, so I vibe coded this up with Claude's help.
+
 A read-only macOS desktop app for browsing your [Paprika 3](https://www.paprikaapp.com) recipe library. Built with [Tauri 2](https://tauri.app) (Rust backend) and React/TypeScript.
 
 ## Screenshots
