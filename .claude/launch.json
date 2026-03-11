@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "paprika-viewer",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "export PATH=$HOME/.cargo/bin:/opt/homebrew/bin:$PATH && npm run tauri dev"],
+      "port": 5173
+    }
+  ]
+}
